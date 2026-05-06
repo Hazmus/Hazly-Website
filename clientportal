@@ -258,7 +258,7 @@
 
 <div class="login-card" id="loginCard">
   <div class="login-header">
-    <a href="homepage.html" class="logo">haz<span>ly</span></a>
+    <a href="home" class="logo">haz<span>ly</span></a>
     <p>Client Portal</p>
   </div>
 
@@ -284,7 +284,7 @@
 
   <div class="error-message" id="errorMsg">Invalid credentials. Please try again.</div>
 
-  <a href="homepage.html" class="back-link">← Back to Hazly</a>
+  <a href="home" class="back-link">← Back to Hazly</a>
 </div>
 
 <script>
